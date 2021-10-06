@@ -1,6 +1,6 @@
-# This is a large heading
+# Greg Wood
 
-## This is a smaller heading
+### Geography
 
 And as **imagination** bodies forth,
 The forms of things *unknown*, the poet’s pen,
